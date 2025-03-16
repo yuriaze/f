@@ -1,1 +1,4 @@
-# f
+LOGOTIP 
+
+AUTO FARM PEÇA (END)
+AUTO BUY (END)
